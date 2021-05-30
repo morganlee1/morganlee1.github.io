@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://morganlee1.github.io</id>
     <title>一名左翼青年的博客</title>
-    <updated>2021-05-24T01:37:50.860Z</updated>
+    <updated>2021-05-30T01:59:26.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://morganlee1.github.io"/>
     <link rel="self" href="https://morganlee1.github.io/atom.xml"/>
     <logo>https://morganlee1.github.io/images/avatar.png</logo>
     <icon>https://morganlee1.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一名左翼青年的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[一些观察]]></title>
+        <id>https://morganlee1.github.io/post/yi-xie-guan-cha/</id>
+        <link href="https://morganlee1.github.io/post/yi-xie-guan-cha/">
+        </link>
+        <updated>2021-05-30T01:54:19.000Z</updated>
+        <content type="html"><![CDATA[<p>消费升级与下沉市场几乎同步，将之前针对一二线城市和高端人士的消费模式进行“平民化”以占领小城市、城镇和农村的成功案例屡见不鲜：拼多多，三通一达，蜜雪冰城，华莱士肯德基等等炸鸡。以及一些先在小城市打开市场的商业模式也反攻大城市并屡屡成功，如黄焖鸡，兰州拉面，这是因为大城市虹吸效应吸引大量外地的年轻人和工人，而他们往往消费能力与小城市的商业模式匹配。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由吃饭想到的]]></title>
         <id>https://morganlee1.github.io/post/you-chi-fan-xiang-dao-de/</id>
