@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://morganlee1.github.io</id>
     <title>一名左翼青年的博客</title>
-    <updated>2021-05-30T01:59:35.335Z</updated>
+    <updated>2021-06-07T15:35:46.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://morganlee1.github.io"/>
     <link rel="self" href="https://morganlee1.github.io/atom.xml"/>
     <logo>https://morganlee1.github.io/images/avatar.png</logo>
     <icon>https://morganlee1.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一名左翼青年的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[有思想的芦苇]]></title>
+        <id>https://morganlee1.github.io/post/you-si-xiang-de-lu-wei/</id>
+        <link href="https://morganlee1.github.io/post/you-si-xiang-de-lu-wei/">
+        </link>
+        <updated>2021-06-07T15:26:10.000Z</updated>
+        <content type="html"><![CDATA[<p>时间长河里，浩渺宇宙中，一个人就像一粒微尘。可能他的存在与否对时空的扰动微乎其微，对他所在的星球也无关紧要，对他的国家和民族也非意义非凡，甚至对他周围的人也影响不大。但是终归是有一点影响的。如果他想做一点事情来让影响变大一点，对他来说可能需要付出一点东西，他选择了是，可能因此有一个人，一些人，一群人，甚至一国之人甚至一球之人过得更好了一点，那他的付出就是值得的，虽然在历史洪流面前他像只蚂蚁，但是他做了，尽吾志也而不能至者，可以无悔矣。他这样的人多一点，再多一点，那么这些人的影响汇聚成雨滴，雨滴汇成小溪，小河，大江，大海......虽然还是很小，但是对这个小球上的人们，已然非凡。<br>
+这是多么酷的一件事呀！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一些观察]]></title>
         <id>https://morganlee1.github.io/post/yi-xie-guan-cha/</id>
