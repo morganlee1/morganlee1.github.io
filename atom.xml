@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://morganlee1.github.io</id>
-    <title>一名左翼青年的博客</title>
-    <updated>2021-06-09T02:40:39.283Z</updated>
+    <title>一名青年的博客</title>
+    <updated>2021-06-09T02:41:46.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://morganlee1.github.io"/>
     <link rel="self" href="https://morganlee1.github.io/atom.xml"/>
     <logo>https://morganlee1.github.io/images/avatar.png</logo>
     <icon>https://morganlee1.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 一名左翼青年的博客</rights>
+    <rights>All rights reserved 2021, 一名青年的博客</rights>
     <entry>
         <title type="html"><![CDATA[狗尾续貂]]></title>
         <id>https://morganlee1.github.io/post/gou-wei-xu-diao/</id>
