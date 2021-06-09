@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://morganlee1.github.io</id>
     <title>一名青年的博客</title>
-    <updated>2021-06-09T02:43:36.266Z</updated>
+    <updated>2021-06-09T03:53:36.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://morganlee1.github.io"/>
     <link rel="self" href="https://morganlee1.github.io/atom.xml"/>
     <logo>https://morganlee1.github.io/images/avatar.png</logo>
     <icon>https://morganlee1.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一名青年的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[白马非马]]></title>
+        <id>https://morganlee1.github.io/post/bai-ma-fei-ma/</id>
+        <link href="https://morganlee1.github.io/post/bai-ma-fei-ma/">
+        </link>
+        <updated>2021-06-09T03:39:42.000Z</updated>
+        <content type="html"><![CDATA[<p>母胎solo的朋友推荐我读冯唐的《万物生长》，读到一半我调侃他：“中学便读这种书，你该有点韵事才是。”读到百分之七十的时候，我便决定自己的调侃蠢得很。我这样一个大学生活结束的人看这本书，经历过了秋水的生活，对书里的种种才有形象的认识，朋友那时候刚开始长胡子，黄书没看过几次，读此书怕不是如同小学生看高数了。其实这样看，我们读的不是一本书，或者说，大家读的都不是一本书，因为人各有自己的境遇，看同一段文字则各有自己的体会，一千个哈姆雷特就是这样诞生的。就像小时候看水浒，看完只记得兄弟义气和色情桥段，现在看只觉得人情世故和宋江该死。大概评判两个人读的东西是不是相同可以用以下标准：对文段的感受和联想相近则为读同一本书，反之不然。所以我读的水浒和小时候读的水浒是两本书，三十六计和孙子兵法是一本书。<br>
+人也一样。史泰龙和施瓦辛格对我而言是一个人，范冰冰和汤唯也是一个人。出生，读书，工作，朝九晚五，结婚生子，柴米油盐，儿女上学，儿女结婚生子，自己退休，带孙子，得病，挣扎，进棺材。这种人生剧本的人对我而言也都是一个人。这种人太多了，也不差我一个，我也不想这样活。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[狗尾续貂]]></title>
         <id>https://morganlee1.github.io/post/gou-wei-xu-diao/</id>
